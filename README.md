@@ -6,4 +6,4 @@ Swift binary that utilizes Open Directory in order to perform passwords changes 
 The README.md has had the information moved to the Wiki which you can access **[here](https://www.github.com/joshua-d-miller/macOSLAPS/wiki)**
 
 ### Feedback and Questions
-If you have questions you can contact me or the vibrant and friendly community on the **[MacAdmins Slack](https://macadmins.org)**
+If you have questions you can contact me or the vibrant and friendly community in the [#laps](https://macadmins.slack.com/archives/C68F4NLFL) channel on **[MacAdmins Slack](https://macadmins.org)**.
